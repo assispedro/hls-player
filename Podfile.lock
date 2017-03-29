@@ -1,0 +1,15 @@
+PODS:
+  - MobileVLCKit (2.2.2)
+  - NVActivityIndicatorView (3.5.1)
+
+DEPENDENCIES:
+  - MobileVLCKit (= 2.2.2)
+  - NVActivityIndicatorView
+
+SPEC CHECKSUMS:
+  MobileVLCKit: 75c2c36b0e3478c3f18cac3a2e7fa127cda0ff92
+  NVActivityIndicatorView: 075563b3547445ebcff840e3297ce9dd4a23731f
+
+PODFILE CHECKSUM: 2bae275f03476b7ca64cd47623761d26cfaf9f89
+
+COCOAPODS: 1.2.0
